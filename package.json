@@ -1,7 +1,7 @@
 {
   "name": "@alexjeffburke/npm-dependants",
   "description": "Get dependants of a module on npm",
-  "version": "2.0.0",
+  "version": "2.0.0-patch1",
   "repository": {
     "type": "git",
     "url": "git://github.com/alexjeffburke/npm-dependants.git"
