@@ -7,7 +7,7 @@ Get dependants of a module on npm.
 ```js
 const dependants = require('npm-dependants')
 
-for await (const dependant of dependants('express')) {
+for (const dependant of await dependants('express')) {
   console.log(dependant)
   // webpack-dev-server
   // webpack-bundle-analyzer
