@@ -1,10 +1,10 @@
 {
-  "name": "npm-dependants",
+  "name": "@alexjeffburke/npm-dependants",
   "description": "Get dependants of a module on npm",
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juliangruber/npm-dependants.git"
+    "url": "git://github.com/alexjeffburke/npm-dependants.git"
   },
   "scripts": {
     "release": "np",
@@ -26,10 +26,5 @@
     "dependents",
     "dependencies"
   ],
-  "author": {
-    "name": "Julian Gruber",
-    "email": "mail@juliangruber.com",
-    "url": "http://juliangruber.com"
-  },
   "license": "MIT"
 }
